@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "location" : "PA"
+    },
+        {
+      "location" : "NJ"
+    },
+    {
+      "location" : "NY"
+    }
+  ]
+}
